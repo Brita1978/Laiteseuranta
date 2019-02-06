@@ -1,0 +1,2 @@
+# Laiteseuranta
+Koulunprojekti
